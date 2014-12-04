@@ -1,0 +1,25 @@
+{
+  "name": "underscore.haz",
+  "version": "1.0.0",
+  "description": "_.haz() is like _.has() but this underscore and/or lodash mixin lets you do deep object key existence checking with a dot denoted string, for example 'a.b.c' ",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/busterc/underscore.haz.git"
+  },
+  "keywords": [
+    "underscore",
+    "has",
+    "haz",
+    "mixin"
+  ],
+  "author": "Buster Collings",
+  "license": "ISC",
+  "homepage": "https://github.com/busterc/underscore.haz",
+  "devDependencies": {
+    "lodash": "^2.4.1",
+    "underscore": "^1.7.0"
+  }
+}
