@@ -1,7 +1,8 @@
 {
   "name": "underscore.haz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "_.haz() is like _.has() but this underscore and/or lodash mixin lets you do deep object key existence checking with a dot denoted string, for example 'a.b.c' ",
+  "main": "main",
   "scripts": {
     "test": "node test"
   },
